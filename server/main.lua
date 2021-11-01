@@ -2,7 +2,13 @@
 QBCore = nil
 TriggerEvent('QBCore:GetObject', function(obj) QBCore = obj end)
 
-local ItemList = Config.SellItems
+local ItemList = {
+    ["cokekey"] = 10000, -- Det første er item koden (ex. ["cokekey"]) og det efter er det antal penge som man modtager for at sælge det.
+    ["mwkey"] = 10000,
+    ["methkey"] = 10000,
+    ["weedkey"] = 10000,
+}
+
 
 
 RegisterServerEvent("qb-blackmarket:server:sellItems")
