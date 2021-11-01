@@ -2,7 +2,7 @@
 
 # VIGTIGT
 Dette script må ikke sælges!! Vær også så venlig ikke at tage koden der er i scriptet.
-# VIGTIGT
+
 
 Dette er en resource som jeg oprindeligt har lavet til PrimeRP.
 Jeg vælger at udgive den da jeg syntes at jeg skulle bidrage til fælleskabet med et lille script. 
