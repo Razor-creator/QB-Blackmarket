@@ -25,7 +25,7 @@ Og de andre ting som qb-core kræver.
 Opsætning:
 
 Lokation på blackmarket, denne findes i config.lua
-Ting du kan sælge, disse kan også konfigureres inde i config.lua
+Ting du kan sælge, disse skal manuelt ændres i server/server.lua (Der er en tabel oppe øverst)
 Ting der kan købes, disse skal manuelt ændres i server/server.lua (Ikke pil ved det medmindre du ved hvad du laver)
 
 
